@@ -1,0 +1,22 @@
+
+Postovani Nikola,
+
+Hvala Vam sto ste konkurisali za poziciju Junior PHP developer.
+
+Kao je u toku selekcija kandidata za sledeci krug razgovora potrebno je ukoliko ste i dalje zainteresovani da uradite sledeci zadatak.
+
+Napraviti identifikaciju korisnika koristeci PHP, MySql i MVC design pattern, pritom ne koristeci PHP framework.
+Flow korisnika-a/akcija :
+Korisnik otvori login stranicu 
+Prikazuje mu se formu sa 2 opcije :: Login & Register
+Ako je postojeci korisnik uloguj ga na "BO" a.k.a. Back Office web aplikacije 
+unutar BO ispisi Hello "user" i to je "home" tab u BO navigaciji
+unutar BO postoji navigacija sa opcijama/akcijama :: home | list all users | logout
+klikom na tab desavaju se predvidjene akcije
+na akciju "list all users" izlistaj sve registrovane korisnike po vremenu kreiranja korisnika.
+klikom na logout korisnik je izlogovan.
+
+Molim Vas da nas obavestite da li prihvatate zadatak, i ako prihvatate datum do kada cete nam poslati link ka Vasem git repozitorijumu i URL gde moze da se vidi uradjen zadatak.
+
+Srdacan pozdrav i hvala, 
+Diwanee Serbia doo 
